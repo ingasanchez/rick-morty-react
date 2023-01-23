@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-URL: https://jolly-griffin-4d471f.netlify.app
+URL: https://rickmonty-react.netlify.app/
 
 ### `npm start`
 
