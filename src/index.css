@@ -19,9 +19,9 @@ body {
 }
 
 .btn-search {
-  background-color: #1ba94c;
+  background-color: #2A86FD;
   color: #ffffff;
-  box-shadow: 0 4px 12px rgb(27 169 76 / 50%);
+  box-shadow: 0 4px 12px rgb(42 134 253 / 50%);
   font-size: 18.005px;
   padding-left: 1.528em;
   padding-right: 1.528em;
@@ -34,8 +34,8 @@ body {
 
 .btn-search:hover {
   background-color: #ffffff;
-  border: 1px solid #1ba94c;
-  color: #1ba94c;
+  border: 1px solid #2A86FD;
+  color: #2A86FD;
 }
 
 .characters {

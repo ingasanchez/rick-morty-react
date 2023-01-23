@@ -1,5 +1,5 @@
 
-import imagenRickMorty from "./img/img-home.png";
+import imagenRickMorty from "./img/img-2.jpg";
 import './App.css';
 import { useState } from "react";
 import Characters from "./components/Characters";
@@ -14,7 +14,6 @@ function App() {
     const characterApi = await api.json();
     setCharacter(characterApi.results);
   }
-
   return (
     <div className="App">
       <header className="App-header">
